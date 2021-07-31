@@ -1,0 +1,12 @@
+{
+  "name": "vertione_react_coding_challenge_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd front_end && npm i && npm run start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
